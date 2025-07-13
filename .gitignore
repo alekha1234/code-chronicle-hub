@@ -1,0 +1,53 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Windows system files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows image file cache
+IconCache.db
+*.stackdump
+
+# Visual Studio files (if used)
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.ipch/
+*.pdb
+*.ilk
+*.idb
+
+# Compiled object files
+*.obj
+*.o
+*.gch
+*.pch
+
+# Compiled executable files
+*.exe
+*.dll
+*.out
+*.app
+
+# Debug files and logs
+*.log
+*.log.*
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Other
+*.cache
+*.ide
