@@ -15,9 +15,11 @@ At present, this repository primarily contains materials related to C++ programm
 
 ## Repository Structure
 
-code-chronicle-hub/
-├── Programming in Cpp/
-└── README.md
+🗃️ code-chronicle-hub/  
+&emsp;&emsp;&emsp;&emsp;└── 📂 Programming-in-Cpp/  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 📂 basics/  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 📂 patterns/  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── 📄 README.md
 
 ## Usage
 
